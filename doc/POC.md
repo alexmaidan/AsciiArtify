@@ -121,4 +121,4 @@ ambassador         LoadBalancer   10.43.190.212   <pending>     80:30092/TCP    
 ```
 
 ### POC Demo
-[![POC Demo](.img/poc.png)](https://youtu.be/KcI26yu12T0)
+[![POC Demo](https://github.com/alexmaidan/AsciiArtify/blob/main/img/poc.png)](https://youtu.be/KcI26yu12T0)
